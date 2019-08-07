@@ -1,2 +1,2 @@
-Hello, Welcome to VNC Digital!!
-Its lunch time
+HI We are in Bangalore
+The 1st CI/CD pipeline project completed
